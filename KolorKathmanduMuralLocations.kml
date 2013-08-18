@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Kolor Kathmandu Mural Locations</name>
+  <description><![CDATA[
+http://kolorkathmandu.sattya.org
+
+Kolor Kathmandu is all set to transform Kathmandu, into an open gallery where creative expressions of modern Nepal go hand in hand with temples of ancient times. We want to make art accessible to all, where art is done for the people, by the people. We envision a capital that thrives in artistic hues truly representing the young nation that we are emerging to become.
+
+As we revive the streets and sights of the city, we allow artists and community members to direct what their neighborhoods should like. We want to inspire change through the streets, and make it our canvas. In doing so, we engage community to be reflective of the new Nepal that is going through a cultural explosion, based on inclusion, where stories of all groups and communities are equal and should be heard.
+]]></description>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>The Giant Storybook by Herakut</name>
+    <description><![CDATA[<div dir="ltr">Opposite to Lalit Kala and Durbar High School</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/herakut.jpg">]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>85.313858,27.707182,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Priscila&#39;s Mural</name>
+    <description><![CDATA[<div dir="ltr">Jawalakhel Chowk, Above Attsh Tshirt store</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/pricila.jpg">]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>85.313965,27.672943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Midnight Mural by Dustin Spagnola</name>
+    <description><![CDATA[<div dir="ltr">Opposite to petrol pump, Bag Bazar</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dustin-bagbazar.jpg">]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>85.316544,27.705872,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Collaborative Mural by Social Creatives</name>
+    <description><![CDATA[<div dir="ltr">Kalikasthan</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/sc-dillibazar.jpg">]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>85.326210,27.703287,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1. Gorkha by Shunnal Ligadi</name>
+    <description><![CDATA[<div dir="ltr">Dhungedhara, Banasthali (On the wall of Corona International School)</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>85.291840,27.725931,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>2. Rupandehi by Suiko</name>
+    <description><![CDATA[<div dir="ltr">Mhepi, Kathmandu</div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>85.306938,27.726540,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>3. Rukum by Rimishna Manandhar</name>
+    <description><![CDATA[<div dir="ltr">Mhepi, Kathmandu</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>85.308411,27.728115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>4. Parbat by Ricole Fedyna</name>
+    <description><![CDATA[<div dir="ltr">Nayabazar Town Planning, Kathmandu (Football Field)</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>85.305710,27.721924,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>5. Morang by Shreezan Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Nayabazr Town Planning, Kathmandu (Football Field)</div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>85.306076,27.721954,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>6. Kanchanpur by Dustin Spagnola</name>
+    <description><![CDATA[Nayabazar, Kathmandu (Besides Prime College)]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>85.303123,27.720076,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>7. Chitwan by Kusum Bajracharya</name>
+    <description><![CDATA[<div dir="ltr">Near Everest Higher Secondary School, Galkhopakha, Thamel</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/chitwan.jpg">]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>85.313400,27.720261,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>8. Kapilbastu by Imagine</name>
+    <description><![CDATA[Saatghumti, Thamel, Kathmandu (Behind Kathmandu Guest House)]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>85.309303,27.715343,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>9. Kailali by Sujan Dongol</name>
+    <description><![CDATA[Outside building of Bijeshowri Boarding School
+
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/khai.jpg">]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>85.299339,27.713091,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>10. Myagdi by Nivedita Siddharthan</name>
+    <description><![CDATA[<div dir="ltr">Bijeshwori, Kathmandu</div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>85.296906,27.713736,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>11. Kaski by Amrit Karki</name>
+    <description><![CDATA[<div dir="ltr">Lazimpat, Kathmandu (Opposite to Nepali Chulo)</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>85.320374,27.722919,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>12. Makwanpur by Daichi Matsusaki</name>
+    <description><![CDATA[<div dir="ltr">Near Gangjong Hotel</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/makwanpur1.jpg">]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>85.321129,27.722925,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>14. Dailekh by Paul Aitchinson</name>
+    <description><![CDATA[<div dir="ltr">Near Japanese Embassy, Pani Pokhari</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dailekh.jpg">]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>85.324821,27.728628,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>16. Humla by Aditya Aryal</name>
+    <description><![CDATA[<div dir="ltr">Gairidhara Chowk, on the wall of Palace Corner Restaurant</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/aditya.jpg">]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>85.324966,27.717487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>17. Ramechap by Sangam Sunuwar</name>
+    <description><![CDATA[Gahiridhara, Kathmandu]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>85.324783,27.717907,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>18. Tanahu by Imagine</name>
+    <description><![CDATA[Gahiridhara, Kathmandu (SANN International College)]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>85.328148,27.720488,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>19. Sunsari by Aditya Aryal and Renny Normala</name>
+    <description><![CDATA[<div dir="ltr">Baluwatar</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/sc-aditya-baluwatar.jpg">]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>85.331322,27.722782,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>20. Argakhanchi by Sneha Shrestha</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>85.331047,27.722740,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>21. Illam by Marina Menuka Lama</name>
+    <description><![CDATA[<div dir="ltr">Bishalnagar, Kathmandu (Besides Embassy of Finland)</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>85.335381,27.721724,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>22. Solukhumbu by Kiran Rai</name>
+    <description><![CDATA[<div dir="ltr">Dhumbarahi, Kathmandu (Saipal Academy's wall)</div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>85.339081,27.723572,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>23. Baglung by Prabal Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Near City Center Chowk (Jain Mandir)<br>&nbsp;</div>
+]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>85.329010,27.709406,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>24. Daang by Shunnal Ligade </name>
+    <description><![CDATA[<div dir="ltr">Near ICA (IGNOU), Gyaneshwor</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>85.332077,27.709063,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>25. Dhading by Colleen Stewart</name>
+    <description><![CDATA[<div dir="ltr">Near Bangemuda, Nhyokha</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>85.308128,27.708450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>26. Nuwakot by Sanjay Shrestha</name>
+    <description><![CDATA[Kankeshwor Temple, Paropakar Road, Kathmandu]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>85.302490,27.706882,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>27. Kathmandu by Shramdeep Purkoti, Prabal Shrestha and Shristi Shrestha</name>
+    <description><![CDATA[Dhokatole, Kathmandu]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>85.306496,27.705643,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>28. Dhankuta by Ricky Lee Gordon</name>
+    <description><![CDATA[<div dir="ltr">Near Dhokatole, Basantapur</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dhankuta.jpg">
+
+]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>85.305595,27.705658,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>29. Bhaktapur by Bandana Tulachan</name>
+    <description><![CDATA[Near Kasthamandap Temple]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>85.305832,27.704166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>30. Nawalparasi By Fuzion</name>
+    <description><![CDATA[<div dir="ltr">Maru, Kathmandu</div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>85.305893,27.704166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>31. Mustang by Prajwal Upreti</name>
+    <description><![CDATA[<div dir="ltr">Meghdoot Boxing Club, Museum Road, Tahachal</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/mustang.jpg">]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>85.299629,27.703287,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>32. Darchula by Dustin Spagnola</name>
+    <description><![CDATA[<div dir="ltr">Meghdoot Boxing Club, Museum Road, Tahachal<br>&nbsp;</div>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dustin.jpg">]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>85.299545,27.703268,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>33. Okhaldhunga by Ozala Shrestha and Dishebh Raj Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Sundhara, Kathmandu (On the steps of the overhead Bridge)</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>85.313416,27.700047,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>34. Lamjung by Shraddha Shrestha and Redzuan Salleh</name>
+    <description><![CDATA[Ratna Park, Kathmandu (On the Overhead Bridge)]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>85.316193,27.706358,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>35. Mohottari by Saran Tandukar</name>
+    <description><![CDATA[Bagbazar, Kathmandu]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>85.319008,27.703604,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>36. Bajhang by DAAS and Dustin Spagnola</name>
+    <description><![CDATA[<div dir="ltr">On Trinity College's wall, DilliBazar</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/daas-dustin.jpg">]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>85.325035,27.703800,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>37. Syangza by Michelle Lama and Roseanne Kalavati</name>
+    <description><![CDATA[<div dir="ltr">Kalikasthan</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/michelle-dillibazaar.jpg">]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>85.326286,27.703478,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>38. Palpa by Bhawana Tulachan</name>
+    <description><![CDATA[<div dir="ltr">Anamnagar, Kathmandu</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>85.326965,27.699865,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>39. Sindhupalchowk by Marina Menuka Lama</name>
+    <description><![CDATA[Boudha, Kathmandu]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>85.360214,27.724127,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>40. Manang by Samantha and Team</name>
+    <description><![CDATA[Bodha, Kathmandu]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>85.360771,27.723856,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>41. Jhapa by DAAS</name>
+    <description><![CDATA[<div dir="ltr">Sinamangal, inside Sikchantra School</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/daas-sinamangal.jpg">]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>85.351151,27.695803,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>42. Dadeldhura by Alberto Clerencia</name>
+    <description><![CDATA[<div dir="ltr">Near Sony Showroom, Minbhawan</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/dadeldhura.jpg">]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>85.341408,27.687376,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>43. Lalitpur by Kiran Maharjan</name>
+    <description><![CDATA[Baneshwor, Kathmandu (On Sagarmatha Television Office)]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>85.328125,27.691584,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>44. Sindhuli by Anish Bajracharya</name>
+    <description><![CDATA[<div dir="ltr">Shankhamul, Next to Pacific Academy</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/sindhuli.jpg">]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>85.333473,27.683823,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>45. Dolakha by Emily Sams</name>
+    <description><![CDATA[<div dir="ltr">Maitighar, on the main road</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/emily-maitighar.jpg">]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>85.321709,27.693789,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>46. Bajura by Shraddha Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Maitighar, St Xavier's College Wall</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/shraddha1.jpg">]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>85.320297,27.693977,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>47. Rolpa by Sujan Dangol</name>
+    <description><![CDATA[<div dir="ltr">In various locations (Framing the word "Safal" in political slogans)</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>85.316750,27.708284,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>48. Rasuwa by DAAS</name>
+    <description><![CDATA[<div dir="ltr">Thapathali, Near Bagmati Bridge</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/redpanda.jpg">]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>85.317360,27.689457,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>49. Kavrepalanchowk by Shreezan Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Lokanthali, Bhaktapur</div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>85.356812,27.674892,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>50. Salyan by Saran Tandukar</name>
+    <description><![CDATA[<div dir="ltr">Jwagal, Kupondole, Lalitpur</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>85.318230,27.685478,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>51. Siraha by Dishebh Raj Shrestha</name>
+    <description><![CDATA[Kupondole, Lalitpur]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>85.317101,27.686796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>52. Taplejung by Dishebh Raj Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Kupondole, Lalitpur (Next to ECS Media)</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>85.315269,27.686523,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>53. Doti by (Danae) Daphne Brissonet</name>
+    <description><![CDATA[<div dir="ltr">Kupondole (Opposite to Water Aid), Lalitpur</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>85.314285,27.687185,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>54. Gulmi by Sourabh Thakur</name>
+    <description><![CDATA[<div dir="ltr">Sanepa, Lalitpur (Opposite to Ezer Cafe)</div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>85.306732,27.685629,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>55. Udaypur by Nhooja Tuladhar</name>
+    <description><![CDATA[<div dir="ltr">Sanepa, Lalitpur (Momotero Resturant's Wall)</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>85.306587,27.682489,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>56. Parsa by Andrew Kentish (mr.ish)</name>
+    <description><![CDATA[Balkhu, Kathmandu]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>85.298454,27.682108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>57. Khotang by Sangrachana Chamling</name>
+    <description><![CDATA[Near International Playgroup Pre-School, Thadodhunga, Sanepa]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>85.306694,27.678108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>58. Bhojpur by Natalie Wohlstadter</name>
+    <description><![CDATA[<div dir="ltr">Near Kathmandu Futsal, Thadodhunga, Sanepa</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/bhojpur.jpg">
+]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>85.307190,27.677917,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>59. Dhanusa by Kabina Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Jhamsikhel, Ideal Model School Wall</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/kabina-jhamshikhel.jpg">]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>85.308319,27.677427,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>60. Banke by Priti Sherchan</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>85.311295,27.676611,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>61. Sarlahi by Shristi Shrestha</name>
+    <description><![CDATA[Dhobighat, Lalitpur (Near Assumption Church)]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>85.307167,27.672356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>62. Bara by Anish Bajracharya and Thaib A. Wahab</name>
+    <description><![CDATA[<div dir="ltr">Bhanimandal (near basketball court</div>
+<br>
+<img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/bara.jpg">]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>85.307632,27.670929,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>63. Panchthar by Prabal Shrestha</name>
+    <description><![CDATA[<div dir="ltr">Bagdol, Nakkhu, Laitpur</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>85.305519,27.668144,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>64. Mugu by Hisila Tuladhar</name>
+    <description><![CDATA[<div dir="ltr">Ekantakuna, Laitpur (Hotel Shaligram Appartments)</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>85.311737,27.670940,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>65. Rautahat by Joan Vifquin</name>
+    <description><![CDATA[<div dir="ltr">Ekantakuna, Lalitpur (Hotel Shaligram Appartment)</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>85.311768,27.671040,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>66. Accham by Kabina Shrestha</name>
+    <description><![CDATA[UN Collaboration]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>85.315933,27.680496,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>67. Baitadi by Kiran Maharjan</name>
+    <description><![CDATA[UN Collaboration]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>85.316055,27.680515,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>68. Jajarkot by Rimishna Manandhar</name>
+    <description><![CDATA[UN Collaboration]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>85.316162,27.680502,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>69. Kalikot by Hisila Tuladhar</name>
+    <description><![CDATA[UN Collaboration<div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>85.316254,27.680502,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>70. Saptari by Shristi Shrestha</name>
+    <description><![CDATA[UN Collaboration]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>85.316338,27.680508,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>71. Surkhet by Sandhya Silwal</name>
+    <description><![CDATA[Pulchowk, Lalitpur]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>85.315765,27.678080,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>72. Dolpa by Emil Shrestha</name>
+    <description><![CDATA[<div dir="ltr">(Pulchowk, the lane beside Namaste Supermarket, Lalitpur)</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>85.317978,27.677370,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>73. Sankhuwashabha by Katie Green</name>
+    <description><![CDATA[<div dir="ltr">Baglamukhi Temple, Lalitpur</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>85.326385,27.676001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>74. Terhathum by Sramdeep Purkoti</name>
+    <description><![CDATA[<div dir="ltr">Dalachhen, Lalitpur (Near Sunndhara)</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>85.329834,27.668716,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>75. Pyuthan by PJ (Prajwol Uprety) and Melvin Wong</name>
+    <description><![CDATA[<div dir="ltr">Nakhipot, Lalitpur (Jesus College)</div>
+<br><img src="http://kolorkathmandu.sattya.org/wp-content/uploads/mural-nails/bara.jpg">]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>85.316330,27.650707,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

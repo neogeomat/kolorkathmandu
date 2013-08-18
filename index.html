@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>OGR2Layers</title>
+<style>
+ #map{width:100%;height:600px;}
+</style>
+<script src="http://localhost/openlayers-2.12/lib/OpenLayers.js"></script>
+<script src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script>
+<script type="text/javascript">
+function urlCheck(str) {
+	var v = new RegExp();
+	v.compile("^[A-Za-z]+://[A-Za-z0-9-_]+\.[A-Za-z0-9-_%&\?\/.=]+$");
+	if (!v.test(str)) {
+		return "<i>"+str+"</i>";
+	}
+		return "<a href="+str+" target:'_blank'>open url</a>";
+};
+var map, selectsControls
+function init(){
+	var option = {
+		projection: new OpenLayers.Projection("EPSG:900913"),
+		displayProjection: new OpenLayers.Projection("EPSG:4326")
+	};
+	var options = {
+	    singleTile: true,
+	    ratio: 1,
+	    isBaseLayer: true,
+	    wrapDateLine: true,
+	    getURL: function() {
+	        var center = this.map.getCenter().transform("EPSG:3857", "EPSG:4326"),
+	            size = this.map.getSize();
+	        return [
+	            this.url, "&center=", center.lat, ",", center.lon,
+	            "&zoom=", this.map.getZoom(), "&size=", size.w, "x", size.h
+	        ].join("");
+	    }
+	};
+	map = new OpenLayers.Map('map', option);
+	olmapnik = new OpenLayers.Layer.OSM("OpenStreetMap Mapnik", "http://tile.openstreetmap.org/${z}/${x}/${y}.png");
+	map.addLayer(olmapnik);
+	map.setBaseLayer(olmapnik);
+	var gmap = new OpenLayers.Layer.Google("Google Streets", {visibility: false});
+	map.addLayer(gmap);
+	ghyb = new OpenLayers.Layer.Grid(
+            "Google Satellite",
+            "http://maps.googleapis.com/maps/api/staticmap?sensor=false&maptype=hybrid", 
+            null, options
+        );
+	map.addLayer(ghyb);
+	var mapbox = new OpenLayers.Layer.XYZ(
+                    "MapBox",
+                    [
+                        "http://a.tiles.mapbox.com/v3/amritkarma.map-6c5zckhu/${z}/${x}/${y}.png",
+                        "http://b.tiles.mapbox.com/v3/amritkarma.map-6c5zckhu/${z}/${x}/${y}.png",
+                        "http://c.tiles.mapbox.com/v3/amritkarma.map-6c5zckhu/${z}/${x}/${y}.png",
+                        "http://d.tiles.mapbox.com/v3/amritkarma.map-6c5zckhu/${z}/${x}/${y}.png"
+                    ], {
+                        attribution: "Tiles &copy; <a href='http://mapbox.com/'>MapBox</a>",
+                        sphericalMercator: true,
+                        wrapDateLine: false,
+                        // numZoomLevels: 5,
+                        isBaseLayer:true
+                    }
+                );
+                map.addLayer(mapbox);
+	var ls= new OpenLayers.Control.LayerSwitcher(); 
+	map.addControl(ls); 
+	ls.maximizeControl(); 
+	map.addControl(new OpenLayers.Control.Scale());
+	map.addControl(new OpenLayers.Control.Attribution());
+	map.addControl(new OpenLayers.Control.OverviewMap());
+	// map.addControl(new OpenLayers.Control.PanZoomBar());
+	map.addControl(new OpenLayers.Control.Navigation());
+	//START QUERY Kolor_Kathmandu_Mural_Locations
+	function onPopupCloseKolor_Kathmandu_Mural_Locations(evt) {
+		selectControl.unselect(selectedFeature);
+	}
+	function onFeatureSelectKolor_Kathmandu_Mural_Locations(feature){
+		selectedFeature = feature;
+		tableKolor_Kathmandu_Mural_Locations="<html><meta http-equiv='Content-Type' content='text/html; charset=UTF-8'><body><table><tr bgcolor='#c5e2ca'><td>Name</td><td>Description</td></tr>";
+		// for (var i=0; i < feature.length; ++i){
+			tableKolor_Kathmandu_Mural_Locations+="<tr><td>"+feature.attributes.name+"</td><td>"+feature.attributes.description+"</td></tr>";
+		// }
+		tableKolor_Kathmandu_Mural_Locations+="</table></body></html>"; 
+		popup = new OpenLayers.Popup.FramedCloud("chicken", 
+			feature.geometry.getBounds().getCenterLonLat(),
+			new OpenLayers.Size(1000,500),
+			tableKolor_Kathmandu_Mural_Locations,
+			null,
+			true,
+			onPopupCloseKolor_Kathmandu_Mural_Locations
+		); 
+		feature.popup = popup;
+		map.addPopup(popup);
+	}
+	function onFeatureUnselectKolor_Kathmandu_Mural_Locations(feature) {
+		map.removePopup(feature.popup);
+		feature.popup.destroy();
+		feature.popup = null;
+	}
+	//STOP QUERY Kolor_Kathmandu_Mural_Locations
+	// var Kolor_Kathmandu_Mural_Locations = new OpenLayers.Layer.Vector("Kolor_Kathmandu_Mural_Locations GeoJSON", "Kolor_Kathmandu_Mural_Locations.GeoJSON", {format: OpenLayers.Format.GeoJSON, strategies: [new OpenLayers.Strategy.Cluster()]});
+	var Kolor_Kathmandu_Mural_Locations = new OpenLayers.Layer.Vector("Kolor_Kathmandu_Mural_Locations", {
+            strategies: [new OpenLayers.Strategy.Fixed()],
+            protocol: new OpenLayers.Protocol.HTTP({
+                url: "KolorKathmanduMuralLocations.kml",
+                format: new OpenLayers.Format.KML()
+            }),
+            projection: new OpenLayers.Projection("EPSG:4326"),
+            styleMap: new OpenLayers.StyleMap({
+                "default": {
+                    title: "${name}",
+                    pointRadius: 5,
+                    fillColor: "#ffcc66",
+                    fillOpacity: 0.8,
+                    strokeColor: "#cc6633",
+                    strokeWidth: 2,
+                    strokeOpacity: 0.8
+                },
+                "select": {
+                    fillColor: "#8aeeef",
+                    strokeColor: "#32a8a9"
+                }
+            })
+        });
+	map.addLayer(Kolor_Kathmandu_Mural_Locations);
+	selectControl = new OpenLayers.Control.SelectFeature(
+		[Kolor_Kathmandu_Mural_Locations, ],
+		{
+			clickout: true, toggle: false, 
+			multiple: false, hover: false, 
+			toggleKey: "ctrlKey", // ctrl key removes from selection
+			multipleKey: "shiftKey" // shift key adds to selection
+		}
+	);
+	map.addControl(selectControl);
+	selectControl.activate();
+	Kolor_Kathmandu_Mural_Locations.events.on({
+		"featureselected": function(e) {
+			onFeatureSelectKolor_Kathmandu_Mural_Locations(e.feature);
+		},
+		"featureunselected": function(e) {
+			onFeatureUnselectKolor_Kathmandu_Mural_Locations(e.feature);
+		}
+	});
+	extent = new OpenLayers.Bounds(85.269318,27.648759,85.383293,27.730576).transform(new OpenLayers.Projection("EPSG:4326"), new OpenLayers.Projection("EPSG:900913"));
+	map.zoomToExtent(extent);
+};
+</script>
+</head>
+<body onload="init()">
+<h1>KolorKathmandu</h1>
+<div id="map"></div>
+</body>
+</html>
